@@ -1,6 +1,5 @@
 # PYTHON-DSA-
-
-> This repository contain all basic data structure that a learn from online resource like gfg,youtube and many more.
+This repository contain all basic data structure that a learn from online resource like gfg,youtube and many more.
 
 <br>
 
